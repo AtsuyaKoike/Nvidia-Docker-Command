@@ -39,9 +39,7 @@ $ apt-get install vim
 <br>
 ## Windowsでインストールするソフト<br>
 # WinSCP<br>
-```
-https://forest.watch.impress.co.jp/library/software/winscp/
-```
+＞ https://forest.watch.impress.co.jp/library/software/winscp/
 インストール後のログイン方法はサーバに接続するユーザネーム、パスワードを入力。<br>
 するとGUIでWindowsからサーバにデータをアップロードすることができる。<br>
 <br>
