@@ -44,7 +44,7 @@ $ apt-get install vim
 するとGUIでWindowsからサーバにデータをアップロードすることができる。<br>
 <br>
 <br>
-サーバにアップロード後、コンテナにデータを移動↓
+サーバにアップロード後、コンテナにデータをコピー↓
 ```
 $ nvidia-docker cp "ディレクトリ名/" "Docker名:/home/"
 ```
