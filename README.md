@@ -37,9 +37,9 @@ $ apt-get install python-pip
 $ apt-get install vim
 ```
 <br>
-## Windowsでインストールするソフト<br>
-# WinSCP<br>
-＞ https://forest.watch.impress.co.jp/library/software/winscp/　<br>
+## Windowsでインストールするソフト
+# WinSCP
+＞＞ https://forest.watch.impress.co.jp/library/software/winscp/　<br>
 インストール後のログイン方法はサーバに接続するユーザネーム、パスワードを入力。<br>
 するとGUIでWindowsからサーバにデータをアップロードすることができる。<br>
 <br>
