@@ -46,6 +46,6 @@ $ apt-get install vim
 <br>
 サーバにアップロード後、コンテナにデータをコピー↓
 ```
-$ nvidia-docker cp "ディレクトリ名/" "Docker名:/home/"
+$ nvidia-docker cp "ディレクトリ名/" "コンテナ名:/home/"
 ```
 
