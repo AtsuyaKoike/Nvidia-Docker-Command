@@ -1,7 +1,7 @@
 # Nvidia-Docker-Command
 Nvidia Dockerでコンテナを作成した時に、まずセットアップする内容です<br>
 <br>
-コンテナの作成↓
+コンテナの作成↓（cuda:8.0 → cuda:9.0）
 ```
 $ nvidia-docker run -it --name "name" nvidia/cuda:8.0-cudnn7-devel-ubuntu16.04
 ```
